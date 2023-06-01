@@ -1,0 +1,9 @@
+1 a) el programa devuelve el valor 8
+  b) el programa devuelve el valor 204  
+2 a)El área del rectangulo de base 5cm y altura 3cm es de 15cm^2.
+  b)El área del rectangulo de base 12,5cm y altura 5,3cm es de 66,25cm^2.
+3 a) 50°F son 10°C
+  b) 75°F son 23.88888888888889°C
+4 a) El promedio es 7
+  b) El promedio es -4.333333333333333
+  c) El promedio es 0.2666666666666666
